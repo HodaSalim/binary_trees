@@ -3,10 +3,11 @@
 #include "binary_trees.h"
 
 /**
- * main - Entry point
+ * main - Entry point  testing comment 2
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	binary_tree_t *root;
